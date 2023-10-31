@@ -1,13 +1,14 @@
 body{
     background-color: aliceblue;
     text-align: center;
+    flex: 1;
+    
 }
 
 .paragrafo1{
     
     background: #ccc;
     font-size: xx-large;
-    display: block;
     width: fit-content;
    
 }

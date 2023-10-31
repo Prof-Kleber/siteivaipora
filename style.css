@@ -5,10 +5,9 @@ body{
 
 .paragrafo1{
     
-    text-align: center;
     background: #ccc;
     font-size: xx-large;
-    display: flex;
+    display: block;
     width: fit-content;
    
 }
